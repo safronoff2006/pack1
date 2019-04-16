@@ -4,5 +4,5 @@ package pack1
 import "fmt"
 
 func Pa() {
-	fmt.Println("Не бзди камфорой товарищ")
+	fmt.Println("Не бзди камфорой товарищ вонюче")
 }
